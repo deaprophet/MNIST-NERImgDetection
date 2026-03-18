@@ -6,7 +6,7 @@ Unified pipeline for handwritten digit classification using multiple ML/DL model
 
 - **Dataset:** MNIST
 - **Classes:** 10 digits (0–9)
-- **Image size:** 28?28 (grayscale)
+- **Image size:** 28\*28 (grayscale)
 - **Format:** NumPy arrays
 
 ## Models
