@@ -22,7 +22,7 @@ The project supports multiple algorithms via a unified interface:
 ### CNN
 
 - 2 convolutional layers + ReLU + MaxPooling
-- Fully connected layers (64 ? 10)
+- Fully connected layers (64 - 10)
 - Best suited for image feature extraction
 
 ### Feed-Forward NN
